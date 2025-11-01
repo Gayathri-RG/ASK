@@ -2,9 +2,10 @@
 
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
+
 # Tools required
-Laptop
-Google Colab
+Python IDE
+
 # Program
 ASK
 ```
